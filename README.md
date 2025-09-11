@@ -1,4 +1,4 @@
-# IoT & Speech Processing | Xpert Internship (May 2025 - Jul 2025)
+# IoT & Software Development | Xpert Internship (May 2025 - Jul 2025)
 
 This project was part of my internship at **Xpert, Kolkata**, under the Career Development Centre.  
 The goal was to design **low-power IoT hardware** and build a **robust speech-processing pipeline** for offline transcription and intelligent cloud integration.
